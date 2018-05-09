@@ -55,6 +55,10 @@ p {
     color: rgba(white, .7);
 }
 
+.text-faded-dark {
+    color: rgba(red($theme-dark),green($theme-dark),blue($theme-dark), .7);
+}
+
 section {
     padding: 100px 0;
 }
